@@ -6,9 +6,15 @@ Project goal is to scrape data from https://www.basketball-reference.com/ to ana
 Visualization link: https://public.tableau.com/app/profile/brian.jue/viz/BasketballAnalyticsProject/Dashboard3
 
 ### Table of Contents
+- Technologies/Packages
+- Data Source
+- Data Scrape
+- Notebook Order
+- Future State
 
-### Technology
+### Technologies/Pacakges
 - Python
+- Tableau
 - Pandas
 - Matplotlib.pyplot
 - BeautifulSoup
@@ -16,7 +22,7 @@ Visualization link: https://public.tableau.com/app/profile/brian.jue/viz/Basketb
 - VSCode
 - urllib.request
 - openpyxl
-- Tableau
+
 
 ### Data Source
 https://www.basketball-reference.com/
